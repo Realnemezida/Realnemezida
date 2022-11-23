@@ -1,11 +1,15 @@
 ### Hi there 👋
-
+I'm Nastya Krasnokutskaya
+- 🔭 I’m currently working on Data Science
+- 🤔 I’m looking for help with finding new job 
+- 📫 How to reach me: t.me/realnemezida, realnemezida@ya.ru
+- ⚡ Fun fact: not found yet
 <!--
 **Realnemezida/Realnemezida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
