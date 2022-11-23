@@ -4,6 +4,7 @@ I'm Nastya Krasnokutskaya
 - 🤔 I’m looking for help with finding new job 
 - 📫 How to reach me: https://t.me/realnemezida, realnemezida@ya.ru
 - ⚡ Fun fact: not found yet
+- 🌱 My Projects: https://github.com/Realnemezida/Projects
 <!--
 **Realnemezida/Realnemezida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
