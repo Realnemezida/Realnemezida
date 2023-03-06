@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Nastya Krasnokutskaya
-- 🔭 I’m currently educating in Data Science
 - 🤔 I’m working as Business Analyst
+- 🔭 I’m currently educating in Data Science
 - 📫 How to reach me: https://t.me/realnemezida, realnemezida@ya.ru
 - ⚡ Fun fact: not found yet
 - 🌱 My Projects: https://github.com/Realnemezida/Projects
